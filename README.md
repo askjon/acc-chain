@@ -1,7 +1,7 @@
 
-#The "Account-Chain"
+# The "Account-Chain"
 
-##using the Blockchain to establish trust between users
+## using the Blockchain to establish trust between users
 
 This Project aims to define a publc blockchain with only the most basic Userinformation as to be as
 minimal as possibly, very flexible in use and adaptability, and utmost general.
